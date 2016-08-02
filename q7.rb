@@ -17,6 +17,4 @@ module HelperMethods
 
   end
 
-  titleize("Josh is cool")
-
 end

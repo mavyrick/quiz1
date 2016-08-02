@@ -39,5 +39,5 @@ module Blog
 
 end
 
-  test1 = Blog::Snippet.new
-  test1.body("")
+  test1 = Blog::Article
+  test1.title()

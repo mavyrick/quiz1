@@ -13,7 +13,7 @@ var isPrime = function(n) {
     }
     else
     {
-    return true;
+      return true;
     }
 
   }
