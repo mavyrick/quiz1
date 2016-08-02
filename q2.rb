@@ -20,7 +20,7 @@ class Stack
 
   def remove
 
-    #removes from the end of the array
+    #removes from the end of the array (LIFO)
     @array.pop
 
   end
@@ -43,7 +43,7 @@ class Queue
 
   def remove
 
-    #removes from the beginning of the array
+    #removes from the beginning of the array (FIFO)
     @array.shift
 
   end
